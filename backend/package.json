@@ -1,0 +1,16 @@
+{
+  "name": "medical-app-backend",
+  "version": "1.0.0",
+  "description": "Backend for the Medical App with MySQL database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "cors": "^2.8.5"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
